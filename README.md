@@ -2,7 +2,8 @@
 
 An example plugin of Commando being used in Java.
 
-### Command Example
+# Creating Commands
+
 ```java
 package me.honkling.example.commands;
 
@@ -22,7 +23,8 @@ public final class ExampleCommand {
 }
 ```
 
-### Main class
+# Registering Commands
+
 ```java
 package me.honkling.example;
 
